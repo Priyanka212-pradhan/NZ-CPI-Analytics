@@ -1,0 +1,281 @@
+period,period_date,group_name,series_ref,index_value,qoq_pct_change,yoy_pct_change
+Mar-25,2025-03-31,Accommodation services,SE9096,1754.0,2.1,-0.3
+Jun-25,2025-06-30,Accommodation services,SE9096,1770.0,0.9,5.3
+Sep-25,2025-09-30,Accommodation services,SE9096,1777.0,0.4,6.9
+Dec-25,2025-12-31,Accommodation services,SE9096,1838.0,3.4,7.0
+Mar-26,2026-03-31,Accommodation services,SE9096,1803.0,-1.9,2.8
+Mar-25,2025-03-31,Actual rentals for housing,SE9041,1305.0,0.7,3.7
+Jun-25,2025-06-30,Actual rentals for housing,SE9041,1315.0,0.8,3.2
+Sep-25,2025-09-30,Actual rentals for housing,SE9041,1319.0,0.3,2.6
+Dec-25,2025-12-31,Actual rentals for housing,SE9041,1321.0,0.2,1.9
+Mar-26,2026-03-31,Actual rentals for housing,SE9041,1321.0,0.0,1.2
+Mar-25,2025-03-31,Alcoholic beverages,SE9021,1247.0,0.8,2.8
+Jun-25,2025-06-30,Alcoholic beverages,SE9021,1241.0,-0.5,0.8
+Sep-25,2025-09-30,Alcoholic beverages,SE9021,1250.0,0.7,0.7
+Dec-25,2025-12-31,Alcoholic beverages,SE9021,1241.0,-0.7,0.3
+Mar-26,2026-03-31,Alcoholic beverages,SE9021,1252.0,0.9,0.4
+Mar-25,2025-03-31,Alcoholic beverages and tobacco group,SE902,1440.0,1.8,3.4
+Jun-25,2025-06-30,Alcoholic beverages and tobacco group,SE902,1437.0,-0.2,2.4
+Sep-25,2025-09-30,Alcoholic beverages and tobacco group,SE902,1444.0,0.5,2.3
+Dec-25,2025-12-31,Alcoholic beverages and tobacco group,SE902,1444.0,0.0,2.1
+Mar-26,2026-03-31,Alcoholic beverages and tobacco group,SE902,1473.0,2.0,2.3
+Mar-25,2025-03-31,All groups,SE9A,1299.0,0.9,2.5
+Jun-25,2025-06-30,All groups,SE9A,1306.0,0.5,2.7
+Sep-25,2025-09-30,All groups,SE9A,1319.0,1.0,3.0
+Dec-25,2025-12-31,All groups,SE9A,1327.0,0.6,3.1
+Mar-26,2026-03-31,All groups,SE9A,1339.0,0.9,3.1
+Mar-25,2025-03-31,Audio-visual and computing equipment,SE9091,504.0,-6.7,-5.4
+Jun-25,2025-06-30,Audio-visual and computing equipment,SE9091,440.0,-12.7,-11.1
+Sep-25,2025-09-30,Audio-visual and computing equipment,SE9091,450.0,2.3,-12.5
+Dec-25,2025-12-31,Audio-visual and computing equipment,SE9091,488.0,8.4,-9.6
+Mar-26,2026-03-31,Audio-visual and computing equipment,SE9091,448.0,-8.2,-11.1
+Mar-25,2025-03-31,Cigarettes and tobacco,SE9022,1779.0,3.9,5.0
+Jun-25,2025-06-30,Cigarettes and tobacco,SE9022,1783.0,0.2,5.3
+Sep-25,2025-09-30,Cigarettes and tobacco,SE9022,1783.0,0.0,4.9
+Dec-25,2025-12-31,Cigarettes and tobacco,SE9022,1811.0,1.6,5.8
+Mar-26,2026-03-31,Cigarettes and tobacco,SE9022,1882.0,3.9,5.8
+Mar-25,2025-03-31,Clothing,SE9031,1061.0,-0.2,-1.8
+Jun-25,2025-06-30,Clothing,SE9031,1069.0,0.8,-0.7
+Sep-25,2025-09-30,Clothing,SE9031,1071.0,0.2,-0.4
+Dec-25,2025-12-31,Clothing,SE9031,1083.0,1.1,1.9
+Mar-26,2026-03-31,Clothing,SE9031,1079.0,-0.4,1.7
+Mar-25,2025-03-31,Clothing and footwear group,SE903,1069.0,0.2,-0.7
+Jun-25,2025-06-30,Clothing and footwear group,SE903,1070.0,0.1,-0.8
+Sep-25,2025-09-30,Clothing and footwear group,SE903,1076.0,0.6,0.0
+Dec-25,2025-12-31,Clothing and footwear group,SE903,1085.0,0.8,1.7
+Mar-26,2026-03-31,Clothing and footwear group,SE903,1083.0,-0.2,1.3
+Mar-25,2025-03-31,Communication group,SE908,925.0,0.3,3.0
+Jun-25,2025-06-30,Communication group,SE908,923.0,-0.2,1.4
+Sep-25,2025-09-30,Communication group,SE908,928.0,0.5,2.5
+Dec-25,2025-12-31,Communication group,SE908,966.0,4.1,4.8
+Mar-26,2026-03-31,Communication group,SE908,968.0,0.2,4.6
+Mar-25,2025-03-31,Credit services,SE9115,744.0,0.0,-4.1
+Jun-25,2025-06-30,Credit services,SE9115,739.0,-0.7,-4.8
+Sep-25,2025-09-30,Credit services,SE9115,739.0,0.0,-2.0
+Dec-25,2025-12-31,Credit services,SE9115,739.0,0.0,-0.7
+Mar-26,2026-03-31,Credit services,SE9115,737.0,-0.3,-0.9
+Mar-25,2025-03-31,Early childhood education,SE9101,920.0,0.0,-22.8
+Jun-25,2025-06-30,Early childhood education,SE9101,920.0,0.0,-22.8
+Sep-25,2025-09-30,Early childhood education,SE9101,943.0,2.5,2.5
+Dec-25,2025-12-31,Early childhood education,SE9101,943.0,0.0,2.5
+Mar-26,2026-03-31,Early childhood education,SE9101,943.0,0.0,2.5
+Mar-25,2025-03-31,Education group,SE910,1126.0,8.9,0.6
+Jun-25,2025-06-30,Education group,SE910,1126.0,0.0,0.6
+Sep-25,2025-09-30,Education group,SE910,1133.0,0.6,9.6
+Dec-25,2025-12-31,Education group,SE910,1133.0,0.0,9.6
+Mar-26,2026-03-31,Education group,SE910,1171.0,3.4,4.0
+Mar-25,2025-03-31,Food group,SE901,1320.0,1.8,2.6
+Jun-25,2025-06-30,Food group,SE901,1341.0,1.6,4.2
+Sep-25,2025-09-30,Food group,SE901,1364.0,1.7,4.6
+Dec-25,2025-12-31,Food group,SE901,1353.0,-0.8,4.3
+Mar-26,2026-03-31,Food group,SE901,1373.0,1.5,4.0
+Mar-25,2025-03-31,Footwear,SE9032,1103.0,2.1,3.8
+Jun-25,2025-06-30,Footwear,SE9032,1076.0,-2.4,-0.7
+Sep-25,2025-09-30,Footwear,SE9032,1096.0,1.9,1.4
+Dec-25,2025-12-31,Footwear,SE9032,1092.0,-0.4,1.1
+Mar-26,2026-03-31,Footwear,SE9032,1098.0,0.5,-0.5
+Mar-25,2025-03-31,Fruit and vegetables,SE9011,1148.0,1.5,-5.4
+Jun-25,2025-06-30,Fruit and vegetables,SE9011,1182.0,3.0,4.3
+Sep-25,2025-09-30,Fruit and vegetables,SE9011,1281.0,8.4,7.5
+Dec-25,2025-12-31,Fruit and vegetables,SE9011,1176.0,-8.2,4.0
+Mar-26,2026-03-31,Fruit and vegetables,SE9011,1233.0,4.8,7.4
+Mar-25,2025-03-31,"Furniture, furnishings, and floor coverings",SE9051,1159.0,-1.0,2.2
+Jun-25,2025-06-30,"Furniture, furnishings, and floor coverings",SE9051,1141.0,-1.6,-0.4
+Sep-25,2025-09-30,"Furniture, furnishings, and floor coverings",SE9051,1115.0,-2.3,-5.2
+Dec-25,2025-12-31,"Furniture, furnishings, and floor coverings",SE9051,1164.0,4.4,-0.6
+Mar-26,2026-03-31,"Furniture, furnishings, and floor coverings",SE9051,1164.0,0.0,0.4
+Mar-25,2025-03-31,"Glassware, tableware, and household utensils",SE9054,1191.0,1.8,0.1
+Jun-25,2025-06-30,"Glassware, tableware, and household utensils",SE9054,1175.0,-1.3,-0.2
+Sep-25,2025-09-30,"Glassware, tableware, and household utensils",SE9054,1164.0,-0.9,1.4
+Dec-25,2025-12-31,"Glassware, tableware, and household utensils",SE9054,1137.0,-2.3,-2.8
+Mar-26,2026-03-31,"Glassware, tableware, and household utensils",SE9054,1207.0,6.2,1.3
+Mar-25,2025-03-31,Grocery food,SE9013,1344.0,2.9,4.3
+Jun-25,2025-06-30,Grocery food,SE9013,1365.0,1.6,4.8
+Sep-25,2025-09-30,Grocery food,SE9013,1370.0,0.4,4.4
+Dec-25,2025-12-31,Grocery food,SE9013,1365.0,-0.4,4.5
+Mar-26,2026-03-31,Grocery food,SE9013,1377.0,0.9,2.5
+Mar-25,2025-03-31,Health group,SE906,1245.0,0.3,4.7
+Jun-25,2025-06-30,Health group,SE906,1246.0,0.1,4.4
+Sep-25,2025-09-30,Health group,SE906,1251.0,0.4,0.6
+Dec-25,2025-12-31,Health group,SE906,1250.0,-0.1,0.7
+Mar-26,2026-03-31,Health group,SE906,1296.0,3.7,4.1
+Mar-25,2025-03-31,Home ownership,SE9042,1575.0,0.6,1.9
+Jun-25,2025-06-30,Home ownership,SE9042,1573.0,-0.1,0.8
+Sep-25,2025-09-30,Home ownership,SE9042,1574.0,0.1,0.8
+Dec-25,2025-12-31,Home ownership,SE9042,1583.0,0.6,1.2
+Mar-26,2026-03-31,Home ownership,SE9042,1591.0,0.5,1.0
+Mar-25,2025-03-31,Hospital services,SE9063,1577.0,0.1,8.8
+Jun-25,2025-06-30,Hospital services,SE9063,1591.0,0.9,9.0
+Sep-25,2025-09-30,Hospital services,SE9063,1615.0,1.5,3.6
+Dec-25,2025-12-31,Hospital services,SE9063,1631.0,1.0,3.5
+Mar-26,2026-03-31,Hospital services,SE9063,1640.0,0.6,4.0
+Mar-25,2025-03-31,Household appliances,SE9053,1030.0,-1.4,-2.0
+Jun-25,2025-06-30,Household appliances,SE9053,1037.0,0.7,-0.9
+Sep-25,2025-09-30,Household appliances,SE9053,1033.0,-0.4,0.3
+Dec-25,2025-12-31,Household appliances,SE9053,1034.0,0.1,-1.1
+Mar-26,2026-03-31,Household appliances,SE9053,1021.0,-1.3,-0.9
+Mar-25,2025-03-31,Household contents and services group,SE905,1163.0,-0.4,-0.1
+Jun-25,2025-06-30,Household contents and services group,SE905,1166.0,0.3,-0.5
+Sep-25,2025-09-30,Household contents and services group,SE905,1154.0,-1.0,-1.7
+Dec-25,2025-12-31,Household contents and services group,SE905,1161.0,0.6,-0.6
+Mar-26,2026-03-31,Household contents and services group,SE905,1163.0,0.2,0.0
+Mar-25,2025-03-31,Household energy,SE9045,1223.0,2.5,7.2
+Jun-25,2025-06-30,Household energy,SE9045,1280.0,4.7,9.1
+Sep-25,2025-09-30,Household energy,SE9045,1317.0,2.9,11.4
+Dec-25,2025-12-31,Household energy,SE9045,1339.0,1.7,12.2
+Mar-26,2026-03-31,Household energy,SE9045,1373.0,2.5,12.3
+Mar-25,2025-03-31,Household textiles,SE9052,1109.0,4.3,2.6
+Jun-25,2025-06-30,Household textiles,SE9052,1150.0,3.7,-3.4
+Sep-25,2025-09-30,Household textiles,SE9052,1138.0,-1.0,-0.1
+Dec-25,2025-12-31,Household textiles,SE9052,1115.0,-2.0,4.9
+Mar-26,2026-03-31,Household textiles,SE9052,1171.0,5.0,5.6
+Mar-25,2025-03-31,Housing and household utilities group,SE904,1415.0,0.7,4.3
+Jun-25,2025-06-30,Housing and household utilities group,SE904,1427.0,0.8,4.0
+Sep-25,2025-09-30,Housing and household utilities group,SE904,1447.0,1.4,3.5
+Dec-25,2025-12-31,Housing and household utilities group,SE904,1454.0,0.5,3.5
+Mar-26,2026-03-31,Housing and household utilities group,SE904,1463.0,0.6,3.4
+Mar-25,2025-03-31,Insurance,SE9114,1532.0,1.1,8.6
+Jun-25,2025-06-30,Insurance,SE9114,1543.0,0.7,6.0
+Sep-25,2025-09-30,Insurance,SE9114,1549.0,0.4,4.1
+Dec-25,2025-12-31,Insurance,SE9114,1551.0,0.1,2.4
+Mar-26,2026-03-31,Insurance,SE9114,1557.0,0.4,1.6
+Mar-25,2025-03-31,Major recreational and cultural equipment,SE9092,1353.0,0.7,1.2
+Jun-25,2025-06-30,Major recreational and cultural equipment,SE9092,1377.0,1.8,2.4
+Sep-25,2025-09-30,Major recreational and cultural equipment,SE9092,1372.0,-0.4,2.6
+Dec-25,2025-12-31,Major recreational and cultural equipment,SE9092,1383.0,0.8,3.0
+Mar-26,2026-03-31,Major recreational and cultural equipment,SE9092,1391.0,0.6,2.8
+Mar-25,2025-03-31,"Meat, poultry, and fish",SE9012,1306.0,1.5,3.8
+Jun-25,2025-06-30,"Meat, poultry, and fish",SE9012,1324.0,1.4,4.8
+Sep-25,2025-09-30,"Meat, poultry, and fish",SE9012,1370.0,3.5,7.1
+Dec-25,2025-12-31,"Meat, poultry, and fish",SE9012,1381.0,0.8,7.3
+Mar-26,2026-03-31,"Meat, poultry, and fish",SE9012,1407.0,1.9,7.7
+Mar-25,2025-03-31,"Medical products, appliances, and equipment",SE9061,1037.0,0.2,7.1
+Jun-25,2025-06-30,"Medical products, appliances, and equipment",SE9061,1031.0,-0.6,6.0
+Sep-25,2025-09-30,"Medical products, appliances, and equipment",SE9061,1003.0,-2.7,-6.3
+Dec-25,2025-12-31,"Medical products, appliances, and equipment",SE9061,978.0,-2.5,-5.5
+Mar-26,2026-03-31,"Medical products, appliances, and equipment",SE9061,1098.0,12.3,5.9
+Mar-25,2025-03-31,Miscellaneous goods and services group,SE911,1337.0,0.8,4.5
+Jun-25,2025-06-30,Miscellaneous goods and services group,SE911,1350.0,1.0,3.6
+Sep-25,2025-09-30,Miscellaneous goods and services group,SE911,1351.0,0.1,2.9
+Dec-25,2025-12-31,Miscellaneous goods and services group,SE911,1354.0,0.2,2.1
+Mar-26,2026-03-31,Miscellaneous goods and services group,SE911,1366.0,0.9,2.2
+Mar-25,2025-03-31,"Newspapers, books, and stationery",SE9095,1296.0,-0.7,1.1
+Jun-25,2025-06-30,"Newspapers, books, and stationery",SE9095,1302.0,0.5,0.8
+Sep-25,2025-09-30,"Newspapers, books, and stationery",SE9095,1332.0,2.3,3.4
+Dec-25,2025-12-31,"Newspapers, books, and stationery",SE9095,1348.0,1.2,3.3
+Mar-26,2026-03-31,"Newspapers, books, and stationery",SE9095,1303.0,-3.3,0.5
+Mar-25,2025-03-31,Non-alcoholic beverages,SE9014,1284.0,2.4,5.5
+Jun-25,2025-06-30,Non-alcoholic beverages,SE9014,1318.0,2.6,5.9
+Sep-25,2025-09-30,Non-alcoholic beverages,SE9014,1308.0,-0.8,4.3
+Dec-25,2025-12-31,Non-alcoholic beverages,SE9014,1315.0,0.5,4.9
+Mar-26,2026-03-31,Non-alcoholic beverages,SE9014,1336.0,1.6,4.0
+Mar-25,2025-03-31,Other education,SE9104,1229.0,5.1,5.1
+Jun-25,2025-06-30,Other education,SE9104,1229.0,0.0,5.1
+Sep-25,2025-09-30,Other education,SE9104,1229.0,0.0,5.1
+Dec-25,2025-12-31,Other education,SE9104,1229.0,0.0,5.1
+Mar-26,2026-03-31,Other education,SE9104,1253.0,2.0,2.0
+Mar-25,2025-03-31,Other household supplies and services,SE9056,1303.0,-1.1,0.5
+Jun-25,2025-06-30,Other household supplies and services,SE9056,1322.0,1.5,1.5
+Sep-25,2025-09-30,Other household supplies and services,SE9056,1317.0,-0.4,-0.5
+Dec-25,2025-12-31,Other household supplies and services,SE9056,1315.0,-0.2,-0.2
+Mar-26,2026-03-31,Other household supplies and services,SE9056,1304.0,-0.8,0.1
+Mar-25,2025-03-31,Other miscellaneous services,SE9116,1305.0,0.8,1.8
+Jun-25,2025-06-30,Other miscellaneous services,SE9116,1319.0,1.1,1.7
+Sep-25,2025-09-30,Other miscellaneous services,SE9116,1303.0,-1.2,0.9
+Dec-25,2025-12-31,Other miscellaneous services,SE9116,1303.0,0.0,0.6
+Mar-26,2026-03-31,Other miscellaneous services,SE9116,1291.0,-0.9,-1.1
+Mar-25,2025-03-31,Other recreational equipment and supplies,SE9093,1298.0,-1.4,0.3
+Jun-25,2025-06-30,Other recreational equipment and supplies,SE9093,1268.0,-2.3,1.4
+Sep-25,2025-09-30,Other recreational equipment and supplies,SE9093,1286.0,1.4,0.1
+Dec-25,2025-12-31,Other recreational equipment and supplies,SE9093,1297.0,0.9,-1.5
+Mar-26,2026-03-31,Other recreational equipment and supplies,SE9093,1288.0,-0.7,-0.8
+Mar-25,2025-03-31,Out-patient services,SE9062,1290.0,0.4,2.4
+Jun-25,2025-06-30,Out-patient services,SE9062,1295.0,0.4,2.8
+Sep-25,2025-09-30,Out-patient services,SE9062,1317.0,1.7,3.6
+Dec-25,2025-12-31,Out-patient services,SE9062,1329.0,0.9,3.4
+Mar-26,2026-03-31,Out-patient services,SE9062,1332.0,0.2,3.3
+Mar-25,2025-03-31,Passenger transport services,SE9073,1216.0,-3.6,1.6
+Jun-25,2025-06-30,Passenger transport services,SE9073,1197.0,-1.6,3.5
+Sep-25,2025-09-30,Passenger transport services,SE9073,1218.0,1.8,2.8
+Dec-25,2025-12-31,Passenger transport services,SE9073,1289.0,5.8,2.2
+Mar-26,2026-03-31,Passenger transport services,SE9073,1261.0,-2.2,3.7
+Mar-25,2025-03-31,Personal care,SE9111,1196.0,0.5,0.6
+Jun-25,2025-06-30,Personal care,SE9111,1209.0,1.1,1.3
+Sep-25,2025-09-30,Personal care,SE9111,1212.0,0.2,1.9
+Dec-25,2025-12-31,Personal care,SE9111,1211.0,-0.1,1.8
+Mar-26,2026-03-31,Personal care,SE9111,1220.0,0.7,2.0
+Mar-25,2025-03-31,Personal effects,SE9113,1236.0,0.4,6.1
+Jun-25,2025-06-30,Personal effects,SE9113,1272.0,2.9,6.7
+Sep-25,2025-09-30,Personal effects,SE9113,1286.0,1.1,6.5
+Dec-25,2025-12-31,Personal effects,SE9113,1333.0,3.7,8.3
+Mar-26,2026-03-31,Personal effects,SE9113,1466.0,10.0,18.6
+Mar-25,2025-03-31,Postal services,SE9081,1341.0,-0.4,1.2
+Jun-25,2025-06-30,Postal services,SE9081,1354.0,1.0,2.7
+Sep-25,2025-09-30,Postal services,SE9081,1455.0,7.5,8.4
+Dec-25,2025-12-31,Postal services,SE9081,1459.0,0.3,8.4
+Mar-26,2026-03-31,Postal services,SE9081,1461.0,0.1,8.9
+Mar-25,2025-03-31,Primary and secondary education,SE9102,1297.0,4.0,4.0
+Jun-25,2025-06-30,Primary and secondary education,SE9102,1297.0,0.0,4.0
+Sep-25,2025-09-30,Primary and secondary education,SE9102,1297.0,0.0,4.0
+Dec-25,2025-12-31,Primary and secondary education,SE9102,1297.0,0.0,4.0
+Mar-26,2026-03-31,Primary and secondary education,SE9102,1363.0,5.1,5.1
+Mar-25,2025-03-31,Private transport supplies and services,SE9072,1397.0,3.1,-0.3
+Jun-25,2025-06-30,Private transport supplies and services,SE9072,1375.0,-1.6,-3.6
+Sep-25,2025-09-30,Private transport supplies and services,SE9072,1380.0,0.4,1.0
+Dec-25,2025-12-31,Private transport supplies and services,SE9072,1404.0,1.7,3.6
+Mar-26,2026-03-31,Private transport supplies and services,SE9072,1450.0,3.3,3.8
+Mar-25,2025-03-31,Property maintenance,SE9043,1335.0,0.5,2.3
+Jun-25,2025-06-30,Property maintenance,SE9043,1340.0,0.4,1.4
+Sep-25,2025-09-30,Property maintenance,SE9043,1349.0,0.7,1.2
+Dec-25,2025-12-31,Property maintenance,SE9043,1359.0,0.7,2.3
+Mar-26,2026-03-31,Property maintenance,SE9043,1384.0,1.8,3.7
+Mar-25,2025-03-31,Property rates and related services,SE9044,1643.0,0.0,12.0
+Jun-25,2025-06-30,Property rates and related services,SE9044,1643.0,0.0,11.9
+Sep-25,2025-09-30,Property rates and related services,SE9044,1778.0,8.2,8.3
+Dec-25,2025-12-31,Property rates and related services,SE9044,1778.0,0.0,8.2
+Mar-26,2026-03-31,Property rates and related services,SE9044,1778.0,0.0,8.2
+Mar-25,2025-03-31,Purchase of vehicles,SE9071,1059.0,0.3,-2.1
+Jun-25,2025-06-30,Purchase of vehicles,SE9071,1065.0,0.6,0.8
+Sep-25,2025-09-30,Purchase of vehicles,SE9071,1064.0,-0.1,2.4
+Dec-25,2025-12-31,Purchase of vehicles,SE9071,1068.0,0.4,1.1
+Mar-26,2026-03-31,Purchase of vehicles,SE9071,1081.0,1.2,2.1
+Mar-25,2025-03-31,Recreation and culture group,SE909,1245.0,-0.1,0.8
+Jun-25,2025-06-30,Recreation and culture group,SE909,1254.0,0.7,3.6
+Sep-25,2025-09-30,Recreation and culture group,SE909,1264.0,0.8,3.6
+Dec-25,2025-12-31,Recreation and culture group,SE909,1286.0,1.7,3.2
+Mar-26,2026-03-31,Recreation and culture group,SE909,1272.0,-1.1,2.2
+Mar-25,2025-03-31,Recreational and cultural services,SE9094,1213.0,0.4,4.0
+Jun-25,2025-06-30,Recreational and cultural services,SE9094,1281.0,5.6,7.1
+Sep-25,2025-09-30,Recreational and cultural services,SE9094,1287.0,0.5,7.0
+Dec-25,2025-12-31,Recreational and cultural services,SE9094,1288.0,0.1,6.6
+Mar-26,2026-03-31,Recreational and cultural services,SE9094,1295.0,0.5,6.8
+Mar-25,2025-03-31,Restaurant meals and ready-to-eat food,SE9015,1404.0,0.2,2.5
+Jun-25,2025-06-30,Restaurant meals and ready-to-eat food,SE9015,1417.0,0.9,2.1
+Sep-25,2025-09-30,Restaurant meals and ready-to-eat food,SE9015,1428.0,0.8,2.4
+Dec-25,2025-12-31,Restaurant meals and ready-to-eat food,SE9015,1435.0,0.5,2.4
+Mar-26,2026-03-31,Restaurant meals and ready-to-eat food,SE9015,1443.0,0.6,2.8
+Mar-25,2025-03-31,Telecommunication equipment,SE9082,466.0,-5.1,-12.9
+Jun-25,2025-06-30,Telecommunication equipment,SE9082,433.0,-7.1,-25.2
+Sep-25,2025-09-30,Telecommunication equipment,SE9082,417.0,-3.7,-15.2
+Dec-25,2025-12-31,Telecommunication equipment,SE9082,464.0,11.3,-5.5
+Mar-26,2026-03-31,Telecommunication equipment,SE9082,455.0,-1.9,-2.4
+Mar-25,2025-03-31,Telecommunication services,SE9083,1034.0,1.7,6.2
+Jun-25,2025-06-30,Telecommunication services,SE9083,1048.0,1.4,7.2
+Sep-25,2025-09-30,Telecommunication services,SE9083,1058.0,1.0,6.4
+Dec-25,2025-12-31,Telecommunication services,SE9083,1088.0,2.8,7.0
+Mar-26,2026-03-31,Telecommunication services,SE9083,1096.0,0.7,6.0
+Mar-25,2025-03-31,Tertiary and other post-school education,SE9103,1205.0,22.6,22.6
+Jun-25,2025-06-30,Tertiary and other post-school education,SE9103,1205.0,0.0,22.6
+Sep-25,2025-09-30,Tertiary and other post-school education,SE9103,1205.0,0.0,22.6
+Dec-25,2025-12-31,Tertiary and other post-school education,SE9103,1205.0,0.0,22.6
+Mar-26,2026-03-31,Tertiary and other post-school education,SE9103,1253.0,4.0,4.0
+Mar-25,2025-03-31,Tools and equipment for house and garden,SE9055,1137.0,-1.0,-5.0
+Jun-25,2025-06-30,Tools and equipment for house and garden,SE9055,1139.0,0.2,-1.1
+Sep-25,2025-09-30,Tools and equipment for house and garden,SE9055,1137.0,-0.2,-0.9
+Dec-25,2025-12-31,Tools and equipment for house and garden,SE9055,1114.0,-2.0,-3.0
+Mar-26,2026-03-31,Tools and equipment for house and garden,SE9055,1093.0,-1.9,-3.9
+Mar-25,2025-03-31,Transport group,SE907,1264.0,0.8,-0.3
+Jun-25,2025-06-30,Transport group,SE907,1251.0,-1.0,-0.9
+Sep-25,2025-09-30,Transport group,SE907,1258.0,0.6,1.8
+Dec-25,2025-12-31,Transport group,SE907,1287.0,2.3,2.6
+Mar-26,2026-03-31,Transport group,SE907,1306.0,1.5,3.3
