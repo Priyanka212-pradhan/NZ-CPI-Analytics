@@ -11,13 +11,13 @@ This project builds a complete analytics pipeline from a raw Stats NZ Excel file
 > 💡 **Note on Interaction:** Due to institutional account cloud restrictions, the live interactive link is hosted internally. You can view the full multi-page visual layout below, or download the working standalone file from the `/powerbi/` directory to inspect the DAX model natively.
 
 ### Page 1: The Headline (March 2026 Summary)
-![The Headline](powerbi/screenshots/page1_headline.png)
+![The Headline](powerbi/screenshots/page1_headline.jpg)
 
 ### Page 2: Category Deep Dive
-![Category Deep Dive](powerbi/screenshots/page2_deepdive.png)
+![Category Deep Dive](powerbi/screenshots/page2_deepdive.jpg)
 
 ### Page 3: Regional Story
-![Regional Story](powerbi/screenshots/page3_regional.png)
+![Regional Story](powerbi/screenshots/page3_regional.jpg)
 
 ---
 
